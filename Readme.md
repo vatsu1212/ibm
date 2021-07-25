@@ -23,4 +23,4 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
-**Link to my notebook**:https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Capstone_template.ipynb
+**Link to my notebook**:https://github.com/vatsu1212/ibm/blob/main/Data_Science_Capstone_Project.ipynb
